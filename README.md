@@ -10,20 +10,6 @@
     Here are my social medias and email:
 </h4>
 
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Giovane%20Iwamoto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-iwamoto-a6377620b/)](https://www.linkedin.com/in/giovane-iwamoto-a6377620b/)
-[![Gmail Badge](https://img.shields.io/badge/-giovaneiwamoto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovaneiwamoto@gmail.com)](mailto:giovaneiwamoto@gmail.com)
-
-</div>
-
-<div align="center">
-
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiovaneIwamoto&repo=GiovaneIwamoto&countColorcountColor)
-
-</div>
-
 <h2 align="center">
     Here are some tecnologies i've been working with:
 </h2>
