@@ -50,6 +50,5 @@
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GiovaneIwamoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneIwamoto&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GiovaneIwamoto&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
