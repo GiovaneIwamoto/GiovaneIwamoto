@@ -6,10 +6,6 @@
     I'm a Computer Science Student at UFMS (Universidade Federal do Mato Grosso do Sul)
 </p>
 
-<h4 align="center">
-    Here are my social medias and email:
-</h4>
-
 <h2 align="center">
     Here are some tecnologies i've been working with:
 </h2>
