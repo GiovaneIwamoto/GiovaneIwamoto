@@ -3,7 +3,7 @@
 </strong>
 
 <p align="center">
-    I'm a Computer Science Student at UFMS (Universidade Federal do Mato Grosso do Sul)
+    I am a dedicated Computer Science student with a keen interest in API development. I am currently exploring the vast field of cloud computing and enjoy working with Node.js and MongoDB to create robust and scalable applications. My areas of expertise include API development, database management, and a fundamental understanding of cloud computing.
 </p>
 
 <h2 align="center">
