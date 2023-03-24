@@ -12,18 +12,22 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/-Python-339933?style=for-the-badge&logo=python&color=black&logoColor=white)
+![](https://img.shields.io/badge/-PYTHON-339933?style=for-the-badge&logo=python&color=black&logoColor=white)
 ![](https://img.shields.io/badge/C-339933?style=for-the-badge&logo=c&color=black&logoColor=white)
 ![](https://img.shields.io/badge/-C++-339933?style=for-the-badge&logo=c%2B%2B&color=black&logoColor=white)
-![](https://img.shields.io/badge/-Java-339933?style=for-the-badge&logo=java&color=black&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-339933?style=for-the-badge&logo=JavaScript&color=black&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-339933?style=for-the-badge&logo=TypeScript&color=black&logoColor=white)
+![](https://img.shields.io/badge/-JAVA-339933?style=for-the-badge&logo=openjdk&color=black&logoColor=white)
+![](https://img.shields.io/badge/-JAVASCRIPT-339933?style=for-the-badge&logo=JavaScript&color=black&logoColor=white)
+![](https://img.shields.io/badge/-TYPESCRIPT-339933?style=for-the-badge&logo=TypeScript&color=black&logoColor=white)
 
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=white)
+![](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=white)
+![](https://img.shields.io/badge/JWT-339933?style=for-the-badge&logo=json-web-tokens&color=black&logoColor=white)
 ![](https://img.shields.io/badge/NPM-339933?style=for-the-badge&logo=NPM&color=black&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=MongoDB&logoColor=white)
-![](https://img.shields.io/badge/-AWS-339933?style=for-the-badge&logo=Amazon-AWS&color=black&logoColor=white)
-![](https://img.shields.io/badge/Postman-339933?style=for-the-badge&logo=postman&color=black&logoColor=white)
+![](https://img.shields.io/badge/JEST-339933?style=for-the-badge&logo=Jest&color=black&logoColor=white)
+
+
+![](https://img.shields.io/badge/MONGODB-339933?style=for-the-badge&logo=MongoDB&color=black&logoColor=white)
+![](https://img.shields.io/badge/AWS-339933?style=for-the-badge&logo=Amazon-AWS&color=black&logoColor=white)
+![](https://img.shields.io/badge/POSTMAN-339933?style=for-the-badge&logo=postman&color=black&logoColor=white)
 
 
 
