@@ -13,12 +13,19 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=black&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=black&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=black&logoColor=white)
+![](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=JavaScript&color=black&logoColor=white)
+![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=JavaScript&color=black&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=black&logoColor=white)
-![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&color=black&logoColor=white)
-![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=black&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=JavaScript&color=black&logoColor=white)
+
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=white)
+![](https://img.shields.io/badge/NPM-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=white)
+![](https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=html5&color=black&logoColor=white)
+![](https://img.shields.io/badge/Postman-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=white)
+
+
 
 </div>
 
