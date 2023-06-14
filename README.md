@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393e46&height=120&section=header"/>
 <strong>
     <h1 align="center">Hi There! I'm Giovane Iwamoto</h1>
 </strong>
