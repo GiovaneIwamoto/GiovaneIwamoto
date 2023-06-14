@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393e46&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+HI+THERE!+I'M+GIOVANE+IWAMOTO;COMPUTER+SCIENCE+STUDENT:%29)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+HI+THERE!+I'M+GIOVANE+IWAMOTO;COMPUTER+SCIENCE+STUDENT:%29)](https://git.io/typing-svg)
 
 <p align="center">
     I am a dedicated Computer Science student with a keen interest in API development. I am currently exploring the vast field of cloud computing and enjoy working with Node.js and MongoDB to create robust and scalable applications. My areas of expertise include API development, database management, and a fundamental understanding of cloud computing.
