@@ -18,9 +18,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GiovaneIwamoto&theme=icegray&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GiovaneIwamoto&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GiovaneIwamoto&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+<img height="207em" src="https://github-readme-stats.vercel.app/api?username=GiovaneIwamoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
