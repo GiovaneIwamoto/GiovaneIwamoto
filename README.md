@@ -1,13 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+HI+THERE!+I'M+GIOVANE+IWAMOTO;COMPUTER+SCIENCE+STUDENT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+HI+THERE!+I'M+GIOVANE+IWAMOTO;COMPUTER+SCIENCE+STUDENT)](https://git.io/typing-svg)
 
 <p align="center">
-    I am a dedicated Computer Science student with a keen interest in API development. I am currently exploring the vast field of cloud computing and enjoy working with Node.js and MongoDB to create robust and scalable applications. My areas of expertise include API development, database management, and a fundamental understanding of cloud computing.
+I am a dedicated Computer Science student with a keen interest in API development and a growing expertise in cloud computing. My experience spans a wide range of AWS technologies, including serverless architecture with AWS Lambda, API development, database management, and AI.
 </p>
 
+<div align="center">
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="AWS Certified Cloud Practitioner" width="150"/>
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" alt="AWS Certified Solutions Architect - Associate" width="150"/>
+</div>
+
 <h2 align="center">
-    Here are some tecnologies i've been working with:
+    Here are some tecnologies I've been working with:
 </h2>
 
 <div align="center">
