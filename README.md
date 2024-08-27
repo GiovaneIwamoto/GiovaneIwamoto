@@ -12,7 +12,7 @@ I am a dedicated Computer Science student with a keen interest in API developmen
 </div>
 
 <h2 align="center">
-    Here are some tecnologies I've been working with:
+    Here are some technologies I've been working with:
 </h2>
 
 <div align="center">
