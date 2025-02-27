@@ -3,12 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+HI+THERE!+I'M+GIOVANE+IWAMOTO;COMPUTER+SCIENCE+STUDENT)](https://git.io/typing-svg)
 
 <p align="center">
-I am a dedicated Computer Science student with a keen interest in API development and a growing expertise in cloud computing. My experience spans a wide range of AWS technologies, including serverless architecture with AWS Lambda, API development, database management, and AI.
+I am an AI/ML & Cloud Computing professional with experience in developing scalable generative AI solutions. My expertise includes large language models (LLMs), knowledge bases for intelligent search, and real-time data processing. I work with serverless architectures, optimizing workflows through automation and integrating advanced techniques such as Agents, Chains, and contextual memory management. Additionally, I have experience in natural language processing (NLP), computer vision, and containerized applications, always following best practices to build secure, reliable, and high-performance solutions.
 </p>
 
 <div align="center">
-  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="AWS Certified Cloud Practitioner" width="150"/>
-  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" alt="AWS Certified Solutions Architect - Associate" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="150"/>
+  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="150"/>
 </div>
 
 <h2 align="center">
