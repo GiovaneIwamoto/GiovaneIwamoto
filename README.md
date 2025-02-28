@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+HI+THERE!+I'M+GIOVANE+IWAMOTO;COMPUTER+SCIENCE+STUDENT)](https://git.io/typing-svg)
+<h2 align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=header"/>
+  <strong>Hi there, I'm Giovane Iwamoto</strong>
+</h2>
 
 <p align="center">
 I am an AI/ML & Cloud Computing professional with experience in developing scalable generative AI solutions. My expertise includes large language models (LLMs), knowledge bases for intelligent search, and real-time data processing. I work with serverless architectures, optimizing workflows through automation and integrating advanced techniques such as Agents, Chains, and contextual memory management. Additionally, I have experience in natural language processing (NLP), computer vision, and containerized applications, always following best practices to build secure, reliable, and high-performance solutions.
@@ -12,9 +14,9 @@ I am an AI/ML & Cloud Computing professional with experience in developing scala
   <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="150"/>
 </div>
 
-<h2 align="center">
-    Here are some technologies I've been working with:
-</h2>
+<p align="center" style="font-size: 20px;">
+    <br><strong>Here are some technologies I've been working with:</strong>
+</p>
 
 <div align="center">
 
@@ -30,4 +32,4 @@ I am an AI/ML & Cloud Computing professional with experience in developing scala
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=footer"/>
