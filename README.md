@@ -1,7 +1,7 @@
-
 <h2 align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=header"/>
-  <strong>Hi there, I'm Giovane Iwamoto</strong>
+  <strong>Hi there! I'm Giovane Iwamoto </strong> 
+  <img width=10% src="https://img.shields.io/github/followers/GiovaneIwamoto?label=follow&style=social"/>
 </h2>
 
 <p align="center">
