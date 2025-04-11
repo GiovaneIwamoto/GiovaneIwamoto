@@ -14,15 +14,7 @@ I am an AI/ML & Cloud Computing professional with experience in developing scala
   <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="150"/>
 </div>
 
-<p align="center" style="font-size: 20px;">
-    <br><strong>Here are some technologies I've been working with:</strong>
-</p>
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=aws,py,c,javascript,ts,mongodb,postman,docker,fastapi&theme=dark)](https://skillicons.dev)
-
-</div>
+<br>
 
 <div align="center">
 
