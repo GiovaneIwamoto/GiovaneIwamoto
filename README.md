@@ -5,7 +5,9 @@
 </h2>
 
 <p align="center">
-I am an AI/ML & Cloud Computing professional with experience in developing scalable generative AI solutions. My expertise includes large language models (LLMs), knowledge bases for intelligent search, and real-time data processing. I work with serverless architectures, optimizing workflows through automation and integrating advanced techniques such as Agents, Chains, and contextual memory management. Additionally, I have experience in natural language processing (NLP), computer vision, and containerized applications, always following best practices to build secure, reliable, and high-performance solutions.
+I am an AI/ML & Cloud Computing professional primarily focused on the design and development of AI Agents. My expertise is centered on building agentic systems with best practices that ensure scalability, reliability, and maintainability.
+I work with agent architectures, applying advanced approaches such as Context Engineering and Prompt Engineering. I also design Agentic RAG pipelines that integrate retrieval with agents to achieve more accurate, grounded, and context-aware outcomes.
+In addition, I leverage Agent-to-Agent (A2A) communication and the Model Context Protocol (MCP) as key protocols for orchestrating interactions and context management in multi-agent environments. To ensure robustness at scale, I adopt strong practices in evaluations and observability, continuously testing, monitoring, and optimizing system performance.
 </p>
 
 <div align="center">
