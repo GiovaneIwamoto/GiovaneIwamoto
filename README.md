@@ -27,3 +27,6 @@ In addition, I leverage Agent-to-Agent (A2A) communication and the Model Context
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=footer"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
