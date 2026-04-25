@@ -1,19 +1,5 @@
-
-
-```text
-Morning                66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Daytime                223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Evening                495 commits         █████████░░░░░░░░░░░░░░░░   34.91 % 
-Night                  634 commits         ███████████░░░░░░░░░░░░░░   44.71 % 
-```
-
-```text
-Monday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Tuesday                  223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Wednesday                162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Thursday                 187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Friday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Saturday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Sunday                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-```
-<br>
+<div align="center">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="150"/>
+  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="150"/>
+</div>
